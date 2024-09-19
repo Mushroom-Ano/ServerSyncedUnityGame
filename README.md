@@ -34,7 +34,7 @@ No downloads are required! Just click the link and start playing.
 
 ## 🚀 How to Play
 
-1. Visit the [game link](https://your-gamelink.com).
+1. Visit the [game link](https://your-gamelink.com). (WIP)
 2. You will be presented with a simple math problem.
 3. Type in the correct answer.
 4. If correct, the raccoon will jump and catch the falling fruit!
