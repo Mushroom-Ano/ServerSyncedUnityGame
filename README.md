@@ -8,7 +8,7 @@ Welcome to **It'sRainingFood**, a fun and educational game where a raccoon jumps
 
 You can play **It'sRainingFood** directly on your browser by visiting the link below:
 
-[game link](https://mushroom-ano.github.io/ServerSyncedUnityGame/)
+https://mushroom-ano.github.io/ServerSyncedUnityGame/
 
 No downloads are required! Just click the link and start playing.
 
