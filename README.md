@@ -32,7 +32,7 @@ This game is designed for players of all ages who want to have fun while practic
 
 ## 🚀 How to Play
 
-1. Visit the [game link](https://mushroom-ano.github.io/ServerSyncedUnityGame/). (WIP)
+1. Visit the [game link](https://mushroom-ano.github.io/ServerSyncedUnityGame/).
 2. You will be presented with a simple math problem.
 3. Type in the correct answer.
 4. If correct, the raccoon will jump and catch the falling fruit!
